@@ -1,4 +1,6 @@
-# RANDOM CLASSIFICATION
+## EX NO:01 
+## Date:
+# <p align="center"> RANDOM CLASSIFICATION</p>
 ## AIM:
 To write a python program to perform random classification.
 
@@ -18,7 +20,7 @@ To write a python program to perform random classification.
 4. Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
 ## PROGRAM:
-python
+```python
 
 #Program to implement random classification.
 #Developed by   : Vigneshwar S
@@ -35,7 +37,7 @@ plt.xlabel("feature 1")
 plt.ylabel("feature 2")
 plt.title('Random Classification Data with 2 classes')
 
-
+```
 ## OUTPUT:
 ![random classification](https://user-images.githubusercontent.com/77089276/164720869-c7605c56-b9fb-4112-bad8-22ee7f5d9ab9.jpeg)
 
