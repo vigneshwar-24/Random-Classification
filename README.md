@@ -1,6 +1,6 @@
-### EX NO: 01 
-### Date:  04.04.2022
-# <p align="center"> RANDOM CLASSIFICATION</p>
+### EX NO:01
+### DATE: 04.04.2022
+# <p align="center">RANDOM CLASSIFICATION<p/>
 ## AIM:
 To write a python program to perform random classification.
 
@@ -19,6 +19,15 @@ To write a python program to perform random classification.
 3. Each decision tree will generate an output.
 4. Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
+<br>
+<br> 
+<br>
+<br>
+<br/>
+<br/>
+<br/>
+
+
 ## PROGRAM:
 ```python
 
@@ -36,11 +45,10 @@ plt.plot(x[:,0][y==1],x[:,1][y==1],'bs')
 plt.xlabel("feature 1")
 plt.ylabel("feature 2")
 plt.title('Random Classification Data with 2 classes')
-
 ```
-## OUTPUT:
-![random classification](https://user-images.githubusercontent.com/77089276/164720869-c7605c56-b9fb-4112-bad8-22ee7f5d9ab9.jpeg)
 
+## OUTPUT:
+<img width="505" alt="output" src="https://user-images.githubusercontent.com/75234991/163532920-70581c32-b131-41bb-8f9e-d7bf011bf901.png">
 
 ## RESULT:
 Thus the random classifier was successfully implemented using python programming.
